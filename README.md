@@ -1,5 +1,5 @@
 # About
-The Mautic Subscription App is an application that allows users with government idir accounts or github accounts with membership within the bcgov or BCDevOps organizations to subscribe/unsubscribe to the Platform Services Mailing List that is managed using Mautic.
+The Platform Services Communications App is an application that allows users with government idir accounts or github accounts with membership within the bcgov or BCDevOps organizations to subscribe/unsubscribe to the Platform Services Mailing List that is managed using Mautic.
 
 # Architecture Diagram
 
