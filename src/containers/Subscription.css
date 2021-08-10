@@ -1,0 +1,14 @@
+.checkboxContainer {
+    width: 300px;
+    margin: auto;
+    position: relative;
+}
+
+.checkboxContent {
+    text-align: left;
+    margin-left: 10px;
+}
+
+.segmentNames {
+    margin-left: 6px;
+}
